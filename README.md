@@ -115,11 +115,3 @@ flowchart TD
         EDA ==>|Foundational Queries| ADV
     end
 ```
-
-## Power BI Dashboard
-
-<img width="1573" height="880" alt="Power BI Dashboard Overview" src="https://github.com/user-attachments/assets/d1d6d08e-04db-4bf7-8a6a-135005117595" />
-
-## License
-
-This project is licensed under the MIT License.
